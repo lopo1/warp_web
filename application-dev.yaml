@@ -1,0 +1,12 @@
+#server 配置
+server:
+  name: "rustDemo"
+  port: 8099
+
+# mysql 配置
+mysql:
+  host: 127.0.0.1
+  port: 3307
+  username: root
+  password: "root"
+  db_name: rustdemo
